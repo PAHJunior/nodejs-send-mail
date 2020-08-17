@@ -22,7 +22,7 @@ router.post('/', async (req, res, next) => {
     }
   })
 
-  let html = `Corpo do e-mail`
+  let html = `Body mail`
 
   await transporter.sendMail({
     from: `"${userName}" <${userMail}>`, // sender address
