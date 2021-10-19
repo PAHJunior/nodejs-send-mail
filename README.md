@@ -1,10 +1,6 @@
 # Send-Mail (send-mail)
 Example - Sending email with nodejs
 
-
-## References
-https://github.com/neighborhood999/vue-signature-pad
-
 ## Install the dependencies
 ```bash
 npm install
